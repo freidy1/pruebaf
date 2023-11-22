@@ -6,6 +6,6 @@ public class inicio {
 		// TODO Auto-generated method stub
 ventana v= new ventana();
 
-	//holaa1 otro mas 1yyyy yyyy
+	//holaa1 otro mas 1yyyy yyyy ttt
 	}
 }

@@ -7,5 +7,7 @@ public class inicio {
 ventana v= new ventana();
 
 	//holaa1 otro mas 1yyyy yyyy ttt
+
+///ottto
 	}
 }

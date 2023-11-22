@@ -6,6 +6,6 @@ public class inicio {
 		// TODO Auto-generated method stub
 ventana v= new ventana();
 
-	
+	//holaa
 	}
 }
